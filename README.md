@@ -1,4 +1,4 @@
-# jane-doe
+# Jane Doe
 Aplicação web fictícia, feita com HTML e CSS.
 
 ![jane doe home](https://user-images.githubusercontent.com/64505863/131545372-22478221-456a-4a3b-9119-408364c7dd19.gif)
@@ -12,5 +12,10 @@ Aplicação web fictícia, feita com HTML e CSS.
 
 ![jane doe contact](https://user-images.githubusercontent.com/64505863/131545642-1128d2c2-465c-4068-9c1f-d94ab9da83c4.gif)
 *Página Contact*
+
+## Link para a aplicação:
+[Jane Doe](larissa-janedoe.netlify.app/)
+## Feito por:
+* [Larissa Siqueira](https://github.com/LarissaSiq)
 
 
