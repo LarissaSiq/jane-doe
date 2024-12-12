@@ -14,7 +14,7 @@ Aplicação web fictícia, feita com HTML e CSS.
 *Página Contact*
 
 ## Link para a aplicação:
-[Jane Doe](larissa-janedoe.netlify.app/)
+[Jane Doe](https://larissa-janedoe.netlify.app)
 ## Feito por:
 * [Larissa Siqueira](https://github.com/LarissaSiq)
 
